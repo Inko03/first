@@ -117,6 +117,7 @@ position: relative;
   margin: 0px;
   display: none;
   width: 0px;
+  color:white;
 }
 #center2:hover .hr
 {
@@ -133,6 +134,7 @@ position: relative;
   margin: 0px;
   display: none;
   width: 0px;
+  color:black;
 }
 #center1:hover .hr2
 {
